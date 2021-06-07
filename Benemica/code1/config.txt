@@ -1,3 +1,4 @@
 ini code mobile
 
 config 192.168.2.2
+config url information www.info.com
